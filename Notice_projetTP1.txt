@@ -1,0 +1,44 @@
+Projet Manche Open School TP1 - Version 0.1 - 11 SEPTEMBRE 2018
+
+
+Arborescence du projet
+
+[Projet_MOS]
+|
+|-[css]
+|  |-styleRecettetp1.css
+|  |-styletp1.css
+|
+|-[images]
+|  |-favicon.ico
+|  |-logo.png
+|	
+|-farCasimir.html
+|-indextp1.html
+
+
+On trouvera donc ici une toute première version (0.1) du projet concernant le restaurant
+de la 'CUISINE POURRITE DU XXIEME Siècle'. Nous avons préféré privilégier un code le plus propre possible avant de réflèchir plus amplement à un webdesign plus élaboré.
+
+Nous avons une page d'accueil nommée 'indextp1.html' dans laquelle nous retrouvons
+le menu proposé par le restaurant composé de liens vers les recettes concernant les différents plats.
+
+Nous proposons ici un seul exemple de ce qui est possible de faire avec le dessert nommé
+'Far Casimir' qui nous amène vers la page nommée 'farCasimir.html'.
+
+Au sein de cette page nous proposons un lien de retour vers la page d'accueil en cliquant sur notre logo.
+
+Vous remarquerez la présence d'une favicon dans l'onglet de notre navigateur
+
+Nous avons deux feuilles de style en .css reliées à nos deux pages .html.
+
+______________________________________________
+
+Travail à faire pour les prochaines versions:
+- proposer un menu déroulant dit 'menu horizontal' (cf. ex.9 du TP)
+- proposer un site dit 'responsive' ou 'web adaptatif' pour différentes tailles d'écrans
+- travailler une typographie plus avenante et une iconographie qui mettra davantage en valeur les recettes
+  
+
+
+	

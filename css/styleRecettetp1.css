@@ -1,0 +1,63 @@
+body {
+   background-color:#306090;
+   color:#ffffff;
+   font-family:"Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+   font-size:small;
+   margin:2em 1%;
+   padding:0;
+   width: 920px;
+   margin: auto;
+}
+
+/* signatures, date */
+
+.auteur {
+  text-align: left;
+  margin-top: 2px;
+}
+/* Les ingrédients */
+
+ul {
+  margin-bottom:1.5em;
+  margin-top: .5em;
+}
+
+nav a {
+	display:block;
+  text-decoration:none;
+  color: black;
+}
+
+/* Le Bandeau */
+
+header {
+  margin:2em 3% 1% 3%;
+  padding:0.05em 0 0.05em 0;
+  font-size:200%;
+  background-color:#ffd000;
+  border-radius:25px;
+}
+
+header h1 {
+  font-family:"Comic Sans MS",Arial,Helvetica,sans-serif;
+  text-align:left;
+  font-size: 1em;
+}
+
+/* Logo */
+
+header .logo {
+  float:left;
+  display:block;
+  margin: 5px;
+}
+
+/* La recette */
+
+.recette {
+  width: 50%;
+  text-align: justify;
+  line-height: 20px;
+  border: 2px solid white;
+  padding: 5px;
+}
