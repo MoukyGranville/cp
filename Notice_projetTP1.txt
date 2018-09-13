@@ -14,7 +14,7 @@ Arborescence du projet
 |  |-logo.png
 |	
 |-farCasimir.html
-|-indextp1.html
+|-index.html
 
 
 On trouvera donc ici une toute première version (0.1) du projet concernant le restaurant
