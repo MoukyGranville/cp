@@ -1,2 +1,2 @@
-# cuisinePourrite
-Projet MOS - TP1 - Cuisine Pourrite
+# cp
+Projet - TP1
